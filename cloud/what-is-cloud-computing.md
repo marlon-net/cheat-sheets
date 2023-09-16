@@ -9,7 +9,7 @@
 
 1. Cost Savings
 	- Helps you reduce capital investment
-	- Reduces hardare and software procurement, which further eliminates the need for power and cooling systems
+	- Reduces hardware and software procurement, which further eliminates the need for power and cooling systems
 	- Provides cloud services on demand and you are only charged when you use the service
 2. Data Loss Prevention
 	- Cloud computing allows you to store your organizations' valuable data in the cloud rather your own data center storage hardware
@@ -19,7 +19,7 @@
 	- Cloud computing enables you to increase or decrease IT infra resources according to your business needs
 	- Both manual and automatic scaling options are available with most cloud providers
 4. Flexibility
-	 - IT organiztions traditionally focus on various responsibilities, from procuring, hosting, and maintaining IT infra to custumer support and security
+	 - IT organizations traditionally focus on various responsibilities, from procuring, hosting, and maintaining IT infra to customer support and security
 	 - Because these services are made available as managed services by the cloud provider, organizations can focus on their actual business and not IT management issues 
 5. Security
 	 - Cloud providers offer data protection services like data encryption and policy-based user management, making cloud security equivalent to conventional systems
