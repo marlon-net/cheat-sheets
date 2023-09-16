@@ -1,7 +1,7 @@
 # What is Cloud-Computing?
 
 - A model that enables businesses to acquire resources for their IT infrastructure needs on demand
-- Cloud resources: Servers, storage, databases, netwroks, software applications, and so on
+- Cloud resources: Servers, storage, databases, networks, software applications, and so on
 - Ensures the instantaneous availability of resources with lower cost and operational overhead
 
 
@@ -12,8 +12,8 @@
 	- Reduces hardware and software procurement, which further eliminates the need for power and cooling systems
 	- Provides cloud services on demand and you are only charged when you use the service
 2. Data Loss Prevention
-	- Cloud computing allows you to store your organizations' valuable data in the cloud rather your own data center storage hardware
-	- The cloud provider's data storage solutions typically offer better access, redundancy, and availability than enterprise data centers
+	- Cloud computing allows you to store your organizations' valuable data in the cloud rather your own datacenter storage hardware
+	- The cloud provider's data storage solutions typically offer better access, redundancy, and availability than enterprise datacenters
 	- These solutions help prevent data loss through malfunction, viruses, user errors, or theft
 3. Scalability
 	- Cloud computing enables you to increase or decrease IT infra resources according to your business needs
@@ -25,7 +25,7 @@
 	 - Cloud providers offer data protection services like data encryption and policy-based user management, making cloud security equivalent to conventional systems
 6. Data Analytics
 	 - Cloud computing technology generally includes analytics and reporting, which helps track usage
-	 - This feature allows you to indentify areas of improvement, meet your business goals, and increase organizational efficiency 
+	 - This feature allows you to identify areas of improvement, meet your business goals, and increase organizational efficiency 
 7. Collaboration
 	-  Cloud computing allows users from different geographic locations to work as a team and collaborate easily and effectively
 	- This speeds delivery of applications to market
